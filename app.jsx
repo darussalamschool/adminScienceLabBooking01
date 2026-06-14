@@ -4,7 +4,7 @@ window.google.script = window.google.script || {};
 
 // ** กำหนด URL ของ Google Apps Script Web App ที่ได้จากการ Deploy **
 // เช่น const GAS_API_URL = "https://script.google.com/macros/s/AKfycb..._your_web_app_id.../exec";
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycbxihM-6DOTHsgnrRcCg7ZHwEVG8trET8SfWjGBBSyw94Ws9ycFv9vKHK0_suHwRXog3/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbwyGmddZ4hxtwTdO98GFnPRN6iEzOKdqWVNOPESXXG1MD4pvJp_6Ij1n2gNN5UkuPTG/exec";
 
 window.google.script.run = (function() {
   class GASRun {
